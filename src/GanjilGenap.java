@@ -14,6 +14,8 @@ public class GanjilGenap {
             System.out.println(angka + " adalah bilangan ganjil.");
         }
 
+
+
         input.close();
     }
 }
